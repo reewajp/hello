@@ -1,0 +1,5 @@
+{
+	"ip":"hairansm.aternos.me",
+	"port": " 61123",
+	"name": "reewaj"
+}
